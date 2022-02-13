@@ -1,0 +1,85 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+
+/* .container {
+
+} */
+
+h1{
+    color: #FFF;
+    font-size: large;
+    margin-right: 50%;
+}
+
+.ul-menu{
+    display: flex;
+}
+
+.menu-list{
+    list-style-type: none;
+}
+
+.menu-list:visited{
+    list-style-type: none;
+}
+
+.fr{
+    color: #940044;
+}
+
+.hautdepage{
+    display: flex;
+    background-color: #000;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.lien-list{
+    margin-right: 10px;
+    font-size: xx-small;
+    text-decoration: none;
+    color: #FFF;
+}
+
+.lien-list:visited{
+    text-decoration: none;
+}
+
+#inscription{
+    margin-right: 20px;
+    background-color: #940044;
+    border: none;
+   
+}
+
+#connexion{
+    background-color: #000;
+    border: 1px solid #FFF;
+}
+
+.user-button{
+    font-size: xx-small;
+    color: #FFF;
+    border-radius: 10%;
+    
+}
+
+.div2{
+    height: 300px;
+    border: 1px solid #000;
+    display : flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.text-div2{
+    font-size: x-small;
+}
+
+
+.photos{
+    width: 40%;
+}
